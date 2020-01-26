@@ -1,0 +1,1 @@
+# springfavor-config
